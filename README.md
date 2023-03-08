@@ -34,3 +34,8 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 # Mock-Up
+![](http://assets/Screen%20Shot%202023-03-07%20at%2011.08.48%20PM.png)
+
+![](Assets/Screen%20Shot%202023-03-07%20at%2011.08.09%20PM.png)
+
+![](Assets/Screen%20Shot%202023-03-07%20at%2011.07.26%20PM.png)
